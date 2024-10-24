@@ -1,0 +1,548 @@
+Run 1
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 2
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 3
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 4
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 5
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 6
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 7
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 8
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 9
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 10
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 11
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 12
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 13
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 14
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 15
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 16
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 17
+==7769==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x5637b5a22403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7ff5c66a1143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7ff5c67217db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 18
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 19
+==7777==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55c30ab08403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7f718ea7c143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7f718eafc7db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 20
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 21
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 22
+==7789==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55b6cb357403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7fe4e8e07143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7fe4e8e877db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 23
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 24
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 25
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 26
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 27
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 28
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 29
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 30
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 31
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 32
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 33
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 34
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 35
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 36
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 37
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 38
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 39
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 40
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 41
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 42
+==7869==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55b1e7b5c403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7eff90db4143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7eff90e347db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 43
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 44
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 45
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 46
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 47
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 48
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 49
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 50
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 51
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 52
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 53
+Run 54
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 55
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 56
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 57
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 58
+Run 59
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 60
+==7964==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55d204e6c403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7fd261378143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7fd2613f87db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 61
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 62
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 63
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 64
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 65
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 66
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 67
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 68
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 69
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 70
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 71
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 72
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 73
+==8016==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55eb60218403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7ffb8b374143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7ffb8b3f47db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 74
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 75
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 76
+Run 77
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 78
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 79
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 80
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 81
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 82
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 83
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 84
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 85
+Run 86
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 87
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 88
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 89
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 90
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 91
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 92
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 93
+==8094==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x560bfc362403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7fc7c7730143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7fc7c77b07db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 94
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 95
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 96
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 97
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 98
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 99
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 100
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+timeout: the monitored command dumped core
+Run 1
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 2
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 3
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 4
+==8202==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55b72c848403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7f3a52669143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7f3a526e97db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 5
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 6
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 7
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 8
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 9
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 10
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 11
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 12
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 13
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 14
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 15
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 16
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 17
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 18
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 19
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 20
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 21
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 22
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 23
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 24
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 25
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 26
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 27
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 28
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 29
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 30
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 31
+Run 32
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 33
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 34
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 35
+==8294==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55a66c130403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7f91389cd143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7f9138a4d7db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 36
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 37
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 38
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 39
+==8306==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x5565f2760403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7ff1ce251143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7ff1ce2d17db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 40
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 41
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 42
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 43
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 44
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 45
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 46
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 47
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 48
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 49
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 50
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 51
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 52
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 53
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 54
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 55
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 56
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 57
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 58
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 59
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 60
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 61
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 62
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 63
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 64
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 65
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 66
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 67
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 68
+Run 69
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 70
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 71
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 72
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 73
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 74
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 75
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 76
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 77
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 78
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 79
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 80
+==8428==WARNING: MemorySanitizer: use-of-uninitialized-value
+    #0 0x55b039f40403 in reader_nowait_fn /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9
+    #1 0x7f2671158143 in start_thread nptl/./nptl/pthread_create.c:442:8
+    #2 0x7f26711d87db in clone3 misc/../sysdeps/unix/sysv/linux/x86_64/clone3.S:81
+
+SUMMARY: MemorySanitizer: use-of-uninitialized-value /home/sa/Downloads/msan reports/ND_codes/ring_1w1r-1.c:14:9 in reader_nowait_fn
+Exiting
+Run 81
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 82
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 83
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 84
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 85
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 86
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 87
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 88
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 89
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 90
+Run 91
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 92
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 93
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 94
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 95
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 96
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 97
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 98
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 99
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
+Run 100
+ring_1w1r-1: ./svc.h:6: void reach_error(): Assertion `0' failed.
